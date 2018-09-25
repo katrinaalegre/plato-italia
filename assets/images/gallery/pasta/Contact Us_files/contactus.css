@@ -1,0 +1,53 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+body {
+	width: 100%;
+	background-color: #F4F4CD;
+}
+
+.navbar-brand {
+	font-family: 'Pacifico', cursive;
+	font-size: 25px;
+}
+
+#footer {
+	font-size: 15px;
+	font-family: 'Courgette', cursive;
+}
+
+.navbar {
+	background-color: #19443A;
+}
+
+ .footer {
+	background-color: #19443A;
+	color: white;
+}
+
+h2 {
+	font-family: 'Neuton', serif;
+	padding-bottom: 20px;
+	padding-top: 30px;
+}
+
+h4 {
+	font-family: 'Pacifico', cursive;
+	font-size: 40px;
+}
+
+p {
+	font-family: 'Overpass', sans-serif;
+	font-size: 15px;
+}
+label {
+	font-family: 'Overpass', sans-serif;
+}
+
+#disclaimer-content {
+	font-size: 10px;
+}
